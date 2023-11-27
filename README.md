@@ -45,7 +45,7 @@ Used word embedding to represent the textual data in a geometric space.
 - Project 3: [Dog breed classifier using transfer learning](https://github.com/iabahmad/pre-trained-image-classifier-to-identify-do-breeds) - Developed a classifies to detect falsified entries in system by classifying the images.
 
 
-- Project 4: [Bike Sharing Demand with AutoGloun](https://graduation.udacity.com/confirm/e/b9f6292c-ee8f-11ed-8ddc-57f019dd3d3a) - Associated with Machine learning fundamentals nanodegree on Udacity
+- Project 4: [Bike Sharing Demand with AutoGloun](https://graduation.udacity.com/confirm/e/b9f6292c-ee8f-11ed-8ddc-57f019dd3d3a) - Associated with Machine learning fundamentals nanodegree at Udacity
 
 ## 📫 How to reach me
 You can reach me at: [say hello](abdullahrashad3@gmail.com)
