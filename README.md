@@ -32,8 +32,15 @@ I'm looking to collaborate on challenging projects
 - MLOPS
 
 ## 🛠️ Projects
-- Project 1: [Project Name](Project Link) - Short description
-- Project 2: [Project Name](Project Link) - Short description
+- Project 1: [AI based crop maintainance UGV](https://github.com/Ali4real/AI-based-crop-maintenance-system) - Developed a disease detection and spraying robot that automatically detects and sprays the pesticide. 
+Used precise agriculture and targeted spraying for efficient utilization of resources.
+
+
+- Project 2: [Sentiment analysis on Roman text using LSTM](https://www.kaggle.com/code/iabahmad19/sentiment-analysis-lstm) - Leveraged the power of LSTM (Long Short-Term Memory) a neural network architecture that can work on textual data by holding the context chat. 
+Used word embedding to represent the textual data in a geometric space.
+
+
+- Project 3: [Bike Sharing Demand with AutoGloun](Project Link) - Predicted bike sharing demand for efficient utilization of resources using AWS SageMaker and AutoGloun framework. Created an ensemble of weak decision trees to get a strong working model.
 - ...
 
 ## 📫 How to reach me
