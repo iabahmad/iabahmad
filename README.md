@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm Abdullah Ahmad 👋
+# Hi there, I'm [Abdullah Ahmad] 👋
 
 I'm a Machine Learning Engineer!
 
@@ -37,12 +37,14 @@ I'm looking to collaborate on challenging projects
 - ...
 
 ## 📫 How to reach me
-You can reach me at: abdullahrashad3@gmail.com
+You can reach me at: [say hello](abdullahrashad3@gmail.com)
 
 Connect with me on LinkedIn: [Abdullah](www.linkedin.com/in/iabahmad19)
 
+Get in touch at Kaggle: [Iabahmad](https://www.kaggle.com/iabahmad19)
+
 ## 😄 Pronouns
-Your pronouns
+He
 
 ## ⚡ Fun fact
-Fun fact about you
+i am a curios learner continously looking for new things. I follow blogs,videos and courses to learn new things and upskill my self.
