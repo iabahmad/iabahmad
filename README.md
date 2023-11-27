@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm [Abdullah Ahmad] 👋
+# Hi there, I'm Abdullah Ahmad 👋 :eyeglasses:
 
 I'm a Machine Learning Engineer!
 
