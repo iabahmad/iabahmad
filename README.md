@@ -50,7 +50,7 @@ Used word embedding to represent the textual data in a geometric space.
 ## 📫 How to reach me
 You can reach me at: [say hello](abdullahrashad3@gmail.com)
 
-Connect with me on LinkedIn: [Abdullah](www.linkedin.com/in/iabahmad19)
+Connect with me on LinkedIn: [Abdullah](https://www.linkedin.com/in/abdullah-ahmad-a143501a6/)
 
 Get in touch at Kaggle: [Iabahmad](https://www.kaggle.com/iabahmad19)
 
