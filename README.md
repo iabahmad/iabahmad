@@ -21,15 +21,17 @@ I'm a Machine Learning Engineer!
 ## 🚀 About Me
 I'm currently working on AI based unmanned crop maintainance system
 
-I'm currently learning Machine learning and Deep learning
+learning Machine learning and Deep learning 🔭
 
-I'm looking to collaborate on challenging projects 
+open to collaborate on challenging projects 
 
 ## 👯 Skills
+although I am still learning but here is a collection of my skills. 😄🌱
 - Python
 - NLP
 - Computer Vision
 - MLOPS
+- Tensorflow/Pytorch
 
 ## 🛠️ Projects
 - Project 1: [AI based crop maintainance UGV](https://github.com/Ali4real/AI-based-crop-maintenance-system) - Developed a disease detection and spraying robot that automatically detects and sprays the pesticide. 
