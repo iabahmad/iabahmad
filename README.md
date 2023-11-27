@@ -40,8 +40,10 @@ Used precise agriculture and targeted spraying for efficient utilization of reso
 Used word embedding to represent the textual data in a geometric space.
 
 
-- Project 3: [Bike Sharing Demand with AutoGloun](Project Link) - Predicted bike sharing demand for efficient utilization of resources using AWS SageMaker and AutoGloun framework. Created an ensemble of weak decision trees to get a strong working model.
-- ...
+- Project 3: [Dog breed classifier using transfer learning](https://github.com/iabahmad/pre-trained-image-classifier-to-identify-do-breeds) - Developed a classifies to detect falsified entries in system by classifying the images.
+
+
+- Project 4: [Bike Sharing Demand with AutoGloun](https://graduation.udacity.com/confirm/e/b9f6292c-ee8f-11ed-8ddc-57f019dd3d3a) - Associated with Machine learning fundamentals nanodegree on Udacity
 
 ## 📫 How to reach me
 You can reach me at: [say hello](abdullahrashad3@gmail.com)
