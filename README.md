@@ -35,7 +35,7 @@ although I am still learning but here is a collection of my skills. 😄🌱
 
 ## 🛠️ Projects
 - Project 1: [AI based crop maintainance UGV](https://github.com/Ali4real/AI-based-crop-maintenance-system) - Developed a disease detection and spraying robot that automatically detects and sprays the pesticide. 
-Used precise agriculture and targeted spraying for efficient utilization of resources.
+Used precise agriculture and targeted spraying for efficient utilization of resources. The dataset used for this project is collected from the premises of TObacco field in Swabi, Pakistan. the images are annotated manually.
 
 
 - Project 2: [Sentiment analysis on Roman text using LSTM](https://www.kaggle.com/code/iabahmad19/sentiment-analysis-lstm) - Leveraged the power of LSTM (Long Short-Term Memory) a neural network architecture that can work on textual data by holding the context chat. 
