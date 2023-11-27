@@ -55,7 +55,7 @@ Connect with me on LinkedIn: [Abdullah](www.linkedin.com/in/iabahmad19)
 Get in touch at Kaggle: [Iabahmad](https://www.kaggle.com/iabahmad19)
 
 ## 😄 Pronouns
-He
+Hehehehe
 
 ## ⚡ Fun fact
 i am a curios learner continously looking for new things. I follow blogs,videos and courses to learn new things and upskill my self.
