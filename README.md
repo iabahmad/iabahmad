@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there, I'm [Your Name] 👋
+
+I'm a Machine Learning Engineer!
+
+## 🚀 About Me
+I'm currently working on AI based unmanned crop maintainance system
+
+I'm currently learning Machine learning and Deep learning
+
+I'm looking to collaborate on challenging projects 
+
+## 👯 Skills
+- Python
+- NLP
+- Computer Vision
+- MLOPS
+
+## 🛠️ Projects
+- Project 1: [Project Name](Project Link) - Short description
+- Project 2: [Project Name](Project Link) - Short description
+- ...
+
+## 📫 How to reach me
+You can reach me at: [Your Email]
+
+Connect with me on LinkedIn: [Your LinkedIn](LinkedIn Link)
+
+## 😄 Pronouns
+Your pronouns
+
+## ⚡ Fun fact
+Fun fact about you
