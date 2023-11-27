@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **iabahmad/iabahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,9 +37,9 @@ I'm looking to collaborate on challenging projects
 - ...
 
 ## 📫 How to reach me
-You can reach me at: [Your Email]
+You can reach me at: abdullahrashad3@gmail.com
 
-Connect with me on LinkedIn: [Your LinkedIn](LinkedIn Link)
+Connect with me on LinkedIn: [Abdullah](www.linkedin.com/in/iabahmad19)
 
 ## 😄 Pronouns
 Your pronouns
