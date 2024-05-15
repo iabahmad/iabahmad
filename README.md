@@ -39,3 +39,7 @@ He/His
 
 ## ⚡ Fun fact
 I'm a curious learner who's always looking for new things to learn. I follow blogs, videos, and courses to upskill myself. I believe in lifelong learning and growth!
+
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=iabahmad&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&layout=compact)
