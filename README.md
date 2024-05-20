@@ -21,11 +21,13 @@ Here are some of the projects I've worked on:
 
 1. [AI based crop maintenance UGV](https://github.com/Ali4real/AI-based-crop-maintenance-system) - A disease detection and spraying robot that's revolutionizing agriculture. 
 
-2. [Sentiment analysis on Roman text using LSTM](https://www.kaggle.com/code/iabahmad19/sentiment-analysis-lstm) - Leveraging the power of LSTM to understand the sentiment behind texts.
+2. [Bringing Faraz Words to Life](https://github.com/iabahmad/poetry-generator.git) - A poetry generator that is still improving itself
 
-3. [Dog breed classifier using transfer learning](https://github.com/iabahmad/pre-trained-image-classifier-to-identify-do-breeds) - A classifier that can identify dog breeds. Perfect for those "what breed is that cute dog?" moments!
+3. [Sentiment analysis on Roman text using LSTM](https://www.kaggle.com/code/iabahmad19/sentiment-analysis-lstm) - Leveraging the power of LSTM to understand the sentiment behind texts.
 
-4. [Bike Sharing Demand with AutoGloun](https://graduation.udacity.com/confirm/e/b9f6292c-ee8f-11ed-8ddc-57f019dd3d3a) - A project associated with the Machine Learning Fundamentals Nanodegree at Udacity.
+4. [Dog breed classifier using transfer learning](https://github.com/iabahmad/pre-trained-image-classifier-to-identify-do-breeds) - A classifier that can identify dog breeds. Perfect for those "what breed is that cute dog?" moments!
+
+5. [Bike Sharing Demand with AutoGloun](https://graduation.udacity.com/confirm/e/b9f6292c-ee8f-11ed-8ddc-57f019dd3d3a) - A project associated with the Machine Learning Fundamentals Nanodegree at Udacity.
 
 ## 📫 How to reach me
 Want to chat? You can reach me at: [say hello](mailto:abdullahrashad3@gmail.com)
@@ -42,4 +44,6 @@ I'm a curious learner who's always looking for new things to learn. I follow blo
 
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=iabahmad&show_icons=true&theme=radical)
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&layout=compact)
+
