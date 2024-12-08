@@ -10,11 +10,13 @@ I'm always on the lookout for challenging projects to collaborate on. So if you'
 ## 🎩 Skills
 I'm still on my learning journey, but here's a sneak peek into my toolbox:
 
-- Python
-- Natural Language Processing (NLP)
-- Computer Vision
-- MLOPS
-- Tensorflow/Pytorch
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=nlp&logoColor=white)
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0078D4?style=for-the-badge&logo=opencv&logoColor=white)
+- ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 ## 🛠️ Projects
 Here are some of the projects I've worked on:
