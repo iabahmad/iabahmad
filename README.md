@@ -6,6 +6,23 @@ I'm a Machine Learning Engineer, but you might also call me an AI enthusiast, a 
 I'm currently diving deep into the world of AI, working on an unmanned crop maintenance system. It's all about Machine Learning and Deep Learning here! 🔭
 
 I'm always on the lookout for challenging projects to collaborate on. So if you're looking for someone who loves a good challenge, you're in the right place!
+### 💼 Experience
+
+- **AI Engineer | Lean Automation (Oct 2024 - Present)**
+   - Developed a smart assessment platform for industry digital transformation using Large Language Models (LLMs).
+   - Integrated RAG within the system to dynamically create and modify assessments for specific industry use cases.
+   - Enhanced efficiency by partitioning vector stores for corresponding models and implementing GraphRAG.
+
+- **Junior Machine Learning Engineer | Neurog (Aug 2024 - Oct 2024)**
+   - Built chatbots using Langchain and Retrieval-Augmented Generation (RAG) to improve user support accuracy and resolution times.
+   - Designed and added chains to chatbot architectures, resulting in a 20% faster response time for customer inquiries.
+   - Optimized algorithms for improved accuracy, reducing errors by 15% and enhancing overall user satisfaction.
+
+- **Machine Learning Intern | Neurog (Jun 2024 - Aug 2024)**
+   - Conducted data preprocessing on OHLC data for trading bot development, boosting model reliability.
+   - Fine-tuned machine learning models, including ARIMA, GRU, and Prophet, to enhance real-time predictions in trading bot applications.
+   - Applied feature engineering to improve BTCUSDT price prediction accuracy by 15%, enhancing trading strategies.
+
 
 ## 🎩 Skills
 I'm still on my learning journey, but here's a sneak peek into my toolbox:
