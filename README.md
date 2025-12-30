@@ -42,9 +42,15 @@
 | [**Bike Sharing Demand**](https://graduation.udacity.com/confirm/e/b9f6292c-ee8f-11ed-8ddc-57f019dd3d3a) | AutoGluon-based demand prediction (Udacity Nanodegree) | AutoML, AutoGluon, Regression |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iabahmad&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=iabahmad&theme=cobalt&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iabahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
