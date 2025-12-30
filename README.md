@@ -47,27 +47,22 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iabahmad&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iabahmad&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/iabahmad/iabahmad/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![snake gif](https://github.com/iabahmad/iabahmad/blob/output/github-contribution-grid-snake.svg)
 
-## 💻 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+## 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iabahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🎯 Fun Facts About Me
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-- 📚 I'm a curious learner who's always looking for new things to learn
-- 🎓 I follow blogs, videos, and courses to upskill myself continuously
-- 💪 I believe in lifelong learning and growth
-- ☕ Powered by coffee and curiosity!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iabahmad&icon=0&color=0)](https://visitcount.itsvg.in)
