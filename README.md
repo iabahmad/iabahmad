@@ -48,15 +48,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iabahmad&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=8)
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/iabahmad/iabahmad/blob/output/github-contribution-grid-snake.svg)
-
-## 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iabahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
