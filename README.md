@@ -1,11 +1,7 @@
 # 💫 About Me:
 👋 I'm **Abdullah Ahmad** - AI Engineer & Machine Learning Enthusiast
 
-🔭 I'm currently working on **AI and automation** projects, specializing in Large Language Models and intelligent systems<br>
-🌱 I'm diving deep into **MLOps, LLMs, RAG systems, and advanced deep learning**<br>
-💡 I love building intelligent solutions that solve real-world problems<br>
-🤝 I'm always looking for challenging projects to collaborate on<br>
-⚡ Fun fact: **I'm a lifelong learner who follows blogs, videos, and courses to continuously upskill!**
+🔭 I'm currently working on **AI and automation** projects, specializing in Large Language Models and intelligent systems
 
 
 ## 🌐 Socials:
@@ -48,12 +44,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iabahmad&theme=cobalt&hide_border=false)<br/>
-
-## 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=8)
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/iabahmad/iabahmad/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iabahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
